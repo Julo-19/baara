@@ -1,4 +1,4 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="/public/Images/Logo Tech Minimalist Violet.png" width="400" alt="Laravel Logo"></a></p>
+<p align="center"><a href="#" target="_blank"><img src="/public/Images/Logo Tech Minimalist Violet.png" width="200" alt="Baara Logo"></a></p>
 
 
 
